@@ -3,6 +3,7 @@ import { StyleSheet, Text, View} from 'react-native'
 
 
 const RootLayout = () => {
+    const colorScheme= useColorScheme()
 
     return(
 
