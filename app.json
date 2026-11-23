@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme":"bartu",
     "name": "bartu",
     "slug": "bartu",
     "version": "1.0.0",
