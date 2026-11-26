@@ -9,11 +9,11 @@ const Login = () => {
   return (
     <ThemedView style={styles.container}>
         <Spacer/>
-        <ThemedText title={true} styles={styles.title}>
+        <ThemedText title={true} style={styles.title}>
             Login to your account
         </ThemedText>
         <Spacer height={100}/>
-        <Link href='/register'>
+        <Link href='/register'  replace>
           <ThemedText style={{ textAlign: 'center'}}>
             Register instead
           </ThemedText>

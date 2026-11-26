@@ -9,7 +9,7 @@ const Register = () => {
   return (
     <ThemedView style={styles.container}>
         <Spacer/>
-        <ThemedText title={true} styles={styles.title}>
+        <ThemedText title={true} style={styles.title}>
             Register for an Account.
         </ThemedText>
         <Spacer height={100}/>
