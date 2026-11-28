@@ -11,7 +11,7 @@ const Contact = () => {
       <ThemedText style={styles.title} title={true}>Contact Page</ThemedText>
 
       <Link href="/" style={styles.link}>
-        <ThemedText>Home Page</ThemedText>
+        <ThemedText>Home Pagee</ThemedText>
       </Link>
     </ThemedView>
   );
